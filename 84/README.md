@@ -16,7 +16,7 @@ This is the game Craps, originally written for the TI-82 in 1994.  The rules wer
 FIGHTER
 -------
 
-This is a side fighter game that uses the text mode.  Originally written by Scott McGregor back in 1994 for the TI-82, futher optimized by myself.  The controls are Up/Down to move your fighter, Y= to fire, Graph to pause/unpause and Clear to quit.
+This is a side fighter game that uses text mode.  Originally written by Scott McGregor back in 1994 for the TI-82, futher optimized by myself.  The controls are Up/Down to move your fighter, Y= to fire, Graph to pause/unpause and Clear to quit.
 
 ![screenshot](https://github.com/munsie/ticalc/blob/main/84/FIGHTER.png?raw=true)
 
