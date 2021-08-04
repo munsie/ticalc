@@ -10,6 +10,13 @@ CRAPS
 
 This is the game Craps, originally written for the TI-82 in 1994.  The rules were loosely based on the version from BASIC Computer Games (1978).
 
+MICKEY
+------
+
+Draws Mickey Mouse.  Originally written for the TI-81 by Ryan Kovacik of Strongsville, Ohio.
+
+![screenshot](https://github.com/munsie/ticalc/blob/main/84/MICKEY.png?raw=true)
+
 MINITTT
 -------
 
