@@ -10,6 +10,9 @@ CRAPS
 
 This is the game Craps, originally written for the TI-82 in 1994.  The rules were loosely based on the version from BASIC Computer Games (1978).
 
+![screenshot](https://github.com/munsie/ticalc/blob/main/84/CRAPS_1.png?raw=true)
+![screenshot](https://github.com/munsie/ticalc/blob/main/84/CRAPS_2.png?raw=true)
+
 MICKEY
 ------
 
@@ -21,6 +24,8 @@ MINITTT
 -------
 
 Tic-Tac-Toe game, originally written for the TI-82 around 1993/1994.  There is no AI, so both X and O have to be played by an actual player.
+
+![screenshot](https://github.com/munsie/ticalc/blob/main/84/MINITTT.png?raw=true)
 
 SLOTS
 -----
