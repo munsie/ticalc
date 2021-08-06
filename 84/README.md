@@ -1,5 +1,12 @@
 All programs were written by Dennis Munsie unless otherwise mentioned.
 
+BREAKOUT
+--------
+
+This program was originally written by an unknown person for the TI-85.  I ported it to the TI-82 in 1993 and added some new features as well.  There are 8 different level layouts.  You get a bonus paddle every 5000 points.
+
+![screenshot](https://github.com/munsie/ticalc/blob/main/84/BREAKOUT.png?raw=true)
+
 CLRALL
 ------
 
